@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Greenhouse Gas (GHG) Protocol emissions calculator and dashboard built using Python and Flask. It allows users to input emission factors and activity data to calculate total GHG emissions. The web-based interface provides an easy and interactive way to perform these calculations.
+This project is a Greenhouse Gas (GHG) Protocol emissions calculator built using Python and Flask. It allows users to input emission factors and activity data to calculate total GHG emissions. The web-based interface provides an easy and interactive way to perform these calculations.
 
 ## Features
 
