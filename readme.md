@@ -1,4 +1,4 @@
-# GHG Protocol Emissions Calculator Dashboard
+# GHG Protocol Emissions Calculator
 
 ## Overview
 
